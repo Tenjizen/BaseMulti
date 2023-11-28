@@ -9,7 +9,6 @@ public class Move : MonoBehaviour
     [SerializeField] int _height;
     [SerializeField] float _cellSize;
     [SerializeField] Transform _textParent;
-    public Grid<GameObject> Grid;
 
 
     //private PathFinding _pathFinding;
