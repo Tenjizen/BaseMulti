@@ -1,0 +1,26 @@
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Assembly.dll
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Assembly.pdb
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Assembly.dll
+C:\Users\nicolas.lepers\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Assembly.pdb
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Assembly.dll
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Assembly.pdb
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Assembly.dll
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Assembly.pdb
+C:\Users\nicol\Desktop\server\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
