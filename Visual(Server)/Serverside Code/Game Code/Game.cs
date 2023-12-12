@@ -7,14 +7,11 @@ namespace Server
 {
     public class Player : BasePlayer
     {
-        public float posx = 0;
-        public float posz = 0;
     }
 
     [RoomType("Server")]
     public class GameCode : Game<Player>
     {
-
         private Dictionary<string, IFunction> _msgPossible = new Dictionary<string, IFunction>();
         // This method is called when an instance of your the game is created
         public override void GameStarted()
@@ -28,8 +25,9 @@ namespace Server
 
         private void AddMessagePossible()
         {
-            _msgPossible.Add("TEST", new Test());
-            _msgPossible.Add("TESTMOVE", new TestS2C());
+            _msgPossible.Add("PlayerJoined", new PlayerJoin());
+           _msgPossible.Add("MovePlayer", new MoveBall());
+           _msgPossible.Add("PlayerTurn", new SwitchTurn());
         }
 
 
@@ -46,8 +44,8 @@ namespace Server
             {
                 if (pl.ConnectUserId != player.ConnectUserId)
                 {
-                    pl.Send("PlayerJoined", player.ConnectUserId, 0, 0);
-                    player.Send("PlayerJoined", pl.ConnectUserId, pl.posx, pl.posz);
+                    pl.Send("PlayerJoined", player.Id);
+                    player.Send("PlayerJoined", pl.Id);
                 }
             }
         }
@@ -67,25 +65,7 @@ namespace Server
                 return;
             }
 
-
             func.Execute(player,message,this);
-
-            //    switch (message.Type)
-            //{
-            //    // called when a player clicks on the ground
-            //    case "MOVE":
-            //        int oldPosX = message.GetInt(0);
-            //        int oldPosY = message.GetInt(1);
-            //        int newPosX = message.GetInt(2);
-            //        int newPosY = message.GetInt(3);
-            //        Console.WriteLine($"old {oldPosX}:{oldPosY} - new {newPosX}:{newPosY}");
-            //        Broadcast("MOVE", player.ConnectUserId, oldPosX, oldPosY, newPosX, newPosY);
-            //        break;
-
-            //    case "TEST":
-            //        Console.WriteLine($"{message.GetInt(1)}  {message.GetString(0)}");
-            //        break;
-            //}
         }
     }
 }
